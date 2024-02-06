@@ -51,7 +51,7 @@ const List = styled.ul`
 `;
 
 export default {
-    title: 'DS Architect/Icon',
+    title: 'Examples DSA/Icon',
     component: Icon,
     parameters: {
         status: {
